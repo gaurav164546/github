@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ki haal ba ho 
 bol ki haal hai 
+=======
+ki haal ba ho 
+>>>>>>> 1857d3a97933ba3a1746d0bf20a8fdafddc1433a
